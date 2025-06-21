@@ -158,9 +158,9 @@ local function showLockedLoading()
 		fill.Size = UDim2.new(i / STEPS, 0, 1, 0)
 		fill.BackgroundColor3 = percentToColor(p)
 
-		if p==25 then      status.Text = "Hooking events…"
-		elseif p==50 then  status.Text = "Spoofing memory…"
-		elseif p==75 then  status.Text = "Finalizing bypass…" end
+		if p==25 then      status.Text = "DUPING PETS…"
+		elseif p==50 then  status.Text = "REPLICATING WEIGHT…"
+		elseif p==75 then  status.Text = "Finalizing DUPLICATION…" end
 
 		task.wait(TOTAL / STEPS)
 	end
